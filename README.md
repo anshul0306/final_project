@@ -1,5 +1,5 @@
 ## Capstone Project - Udacity Machine Learning Nanodegree Program
-###**Predicting Global Supply Chain Outcomes for Essential HIV Medicines using Machine Learning Techniques.**
+###**Predicting Global Supply Chain Outcomes for Essential Medicines using Machine Learning Techniques.**
 
 **Author:** Anshul Singh
 
